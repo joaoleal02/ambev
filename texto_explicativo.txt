@@ -1,0 +1,26 @@
+- Codigo que recebe uma cerveja de um pdv, e com base em sua localizacao
+retorna outra cerveja similar (tanto em aspectos intrinsecos) como tambem
+em seu preço
+- Venda Cruzada / Venda Adicional: Desenvolver um sistema de recomendação que 
+permita a venda e venda cruzada de produtos (novos produtos ou produtos já comprados) 
+que possibilitará maior geração de receita.
+- Windows, Linux e macOS
+- Bibliotecas externas: decimal
+			sklearn.cluster
+			numpy
+			pandas
+			datetime
+			random
+			sklearn.metrics
+			matplotlib.pyplot
+			matplotlib.cm
+			matplotlib.style
+			sklearn.reprocessing
+- Feito no Jupyter, arquivos rodados no formato csv, porem tem a opção de ser rodado com o mysql
+- Copiar arquivo Sistema_iHops no Jupyter, baixar ambos os csv (MLiHops e rascunho),
+e rodar o programa (podendo escolher o postal code do pdv que quer que seja recomendado)
+- https://docs.google.com/presentation/d/1aKYPkhrlHFj_TBAfWWEYkuRud4FUKJPTFCQv62ZaRrE/edit#slide=id.gfb6a71fb1a_0_167
+- Joao Felipe Leal: joaoleal02
+- Miguel Mendes: miguelsom
+- Eduardo Olinto: olintoeduardo
+
