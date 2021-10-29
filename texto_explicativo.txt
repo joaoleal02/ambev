@@ -19,7 +19,8 @@ que possibilitará maior geração de receita.
 - Feito no Jupyter, arquivos rodados no formato csv, porem tem a opção de ser rodado com o mysql
 - Copiar o arquivo do programa no Jupyter, salvar a tabela MLiHops, salvar o arquivo zipado (rascunho), e botar
 a senha para descriptografar, depois upload ambos arquivos no jupyter para rodar o programa, se quiser pode mudar
-o postal code para ver as recomendacoes para diferentes pdvs.
+o postal code para ver as recomendacoes para diferentes pdvs. Outra opcao é usar o rascunho.csv que nao esta criptografado
+e que foi uploaded na secao de "Assets" do taikai.
 e rodar o programa (podendo escolher o postal code do pdv que quer que seja recomendado)
 - Link apresentacao : https://docs.google.com/presentation/d/1aKYPkhrlHFj_TBAfWWEYkuRud4FUKJPTFCQv62ZaRrE/edit#slide=id.gfb6a71fb1a_0_167
 - Joao Felipe Leal: joaoleal02
